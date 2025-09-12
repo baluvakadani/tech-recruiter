@@ -30,7 +30,7 @@ I specialize in:
 ## Connect With Me  
 - LinkedIn: [linkedin.com/in/balavakadani](https://linkedin.com/in/balavakadani)  
 - Email: [balakrishna.vakadani@gmail.com](mailto:balakrishna.vakadani@gmail.com)  
-- Portfolio Website: (Will be live at) https://baluvakadani.github.io/tech-recruiter  
+- Portfolio Website: https://baluvakadani.github.io/tech-recruiter  
 
 ---
 
